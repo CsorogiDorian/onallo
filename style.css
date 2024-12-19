@@ -1,0 +1,78 @@
+h1 {
+    text-align: center;
+    padding-top: 10px;
+    font-style: italic;
+}
+
+h3 {
+    text-indent: 10%;
+    font-style: italic;
+    padding-top: 10%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div {
+    margin-left: 15%;
+    margin-right: 58%;
+    text-align: justify;
+    font-size: large;
+}
+
+img {
+    height: 600px;
+    width: 800px;
+    margin-left: 15%;
+    margin-top: 3%;
+}
+
+#section1 {
+    margin-top: 10%;
+    width: 20%;
+}
+
+#section2 {
+    width: 30%;
+}
+
+#section3 {
+    width: 40%;
+}
+
+#section4 {
+    width: 50%;
+    
+}
+#section5 {
+    width: 60%;
+}
+
+#section6 {
+    width: 20%;
+    margin-bottom: 10%;
+}
+
+
+h4{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family:'Times New Roman', Times, serif
+}
+
+h5{
+    margin-left: 5%;   
+    margin-right: 5%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.karacsonyiKepek{
+    width: 300px;
+    height: 200px;
+    
+  }
+
+.table{
+    text-align: center;
+}
+
+
